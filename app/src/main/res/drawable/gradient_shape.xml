@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!--android：angle渐变的角度，270表示由上向下渐变，
+        90度表示由下向上渐变（angle（角度）的值只可为：45  90  135 180等45的倍数）；
+        android：centerColor中间点颜色；
+
+    -->
+    <gradient
+        android:angle="90"
+        android:startColor="#46B4F7"
+        android:endColor="#62BCF5"/>
+
+
+
+</shape>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#f0f0f0</color>
+    <color name="colorLoginUserText">#66f55e</color>
+    <color name="colorLoginUserHint">#87CEFA</color>
+    <color name="colorLoginRememberPassword">#0066cc</color>
+    <color name="colorIndexSearch">#eeffff</color>
+    <color name="colorIndexMenu">#0066c2</color>
+    <color name="colorIndexMenu2">#006655</color>
+    <color name="colorIndexSearchText">#000000</color>
+    <color name="colorIndexSearchBackground">#8BC9F5</color>
+    <color name="colorLoginButtonShape">#1e90ff</color>
+    <color name="colorLoginBtnBackground">#ccFFFF</color>
+    <color name="colorLoginBtnTextColor">#FF0033</color>
+
+
+
+
+
+</resources>
